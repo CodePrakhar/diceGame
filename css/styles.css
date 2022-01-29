@@ -1,0 +1,57 @@
+body
+{
+  background-color: #6ec0ab;
+}
+.container{
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 2.2rem;
+  margin-bottom: 0px;
+  color: #4b4539;
+}
+h1{
+  margin-bottom: 10px;
+}
+body{
+  text-align: center;
+}
+.Player{
+  display: inline-block;
+  font-family: 'Balsamiq Sans', cursive;
+  color: #4b4539;
+  font-size: 1.2rem;
+  padding: 100px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+footer{
+  position: absolute;
+  font-size: 20px;
+top: 90%;
+left: 0;
+right: 0;
+font-family: 'Balsamiq Sans', cursive;
+}
+.dice{
+  width: 200px;
+}
+.btn {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 24px;
+  font-family: Arial;
+  color: #4b4539;
+  font-size: 20px;
+  background: #ffe082;
+  padding: 20px 20px 20px 20px;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  bottom: 100px;
+   border: solid #4b4539 5px;
+}
+
+.btn:hover {
+  background: #f3b06c;
+  text-decoration: none;
+   border: solid #4b4539 5px;
+}
